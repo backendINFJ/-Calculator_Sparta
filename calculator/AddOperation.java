@@ -1,4 +1,4 @@
-package carculator;
+package calculator;
 
 public class AddOperation { // 덧셈 메서드
     public static double add(double num1, double num2) {

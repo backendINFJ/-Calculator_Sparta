@@ -1,4 +1,4 @@
-package carculator;
+package calculator;
 
 public class DivideOperation { // 나눗셈 메서드
 

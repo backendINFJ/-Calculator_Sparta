@@ -1,4 +1,4 @@
-package carculator;
+package calculator;
 
 public class MultiplyOperation { // 곱셈 메서드
 

@@ -1,4 +1,4 @@
-package carculator;
+package calculator;
 
 public class Main {
 
