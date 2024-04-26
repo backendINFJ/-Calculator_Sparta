@@ -4,7 +4,7 @@ package calculator2;
 
 
 public class AbstractOperation extends Calculator {
-    public AbstractOperation(char type, double num1, double num2) {
+     public AbstractOperation(char type, double num1, double num2) {
         super(type, num1, num2);
     }
 }

@@ -15,7 +15,7 @@ public class Calculator {
 
      // char 사용한 이유는 String보다 메모리 할당이 낮기때문 +
 // String 사용시 오타 기입 가능성 있고 제약할 범위가 넓어짐 = 비효율적 (개인적인 생각)
-     public void cal(char type, double num1, double num2) { // 계산 메서드
+     public void  cal(char type, double num1, double num2) { // 계산 메서드
          if (type == '+') {
              double result = num1 + num2; // 덧셈
              System.out.println("결과 : " + result);
