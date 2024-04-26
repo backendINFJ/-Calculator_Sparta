@@ -11,3 +11,4 @@ public class AbstractOperation { // 뺄셈 메서드
         return result; // 연산값 반환
     }
 }
+  
